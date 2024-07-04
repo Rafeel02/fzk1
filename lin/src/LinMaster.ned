@@ -23,4 +23,5 @@ simple LinMaster extends LinNode
         
     gates:
       	//todo: define the gate going to/coming from the bus
+      	inout gate[50];
 }
