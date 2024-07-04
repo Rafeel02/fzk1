@@ -1,0 +1,3 @@
+package lin;
+
+@license(LGPL);
